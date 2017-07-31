@@ -88,6 +88,9 @@ font-size:18px;
 
 
 #page3{
+background: url(DSC_2898.JPG) 
+center no-repeat;
+background-size: cover;
 position:relative;	
 height:900px;
 width:100%;
